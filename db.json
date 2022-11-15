@@ -1,6 +1,6 @@
-
-  [{
+{
+  "Usuario":[{
    "user":"ADMIN",
    "password":"ADMIN"
  }]
-
+}
